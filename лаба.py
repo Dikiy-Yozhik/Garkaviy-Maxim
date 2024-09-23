@@ -4,3 +4,5 @@ b = int(input("Введите второе число: "))
 print(a, "-", b, "=", a-b)
 print(a, "+", b, "=", a+b)
 print(a, "/", b, "=", a/b)
+print(a, "*", b, "=", a*b)
+
