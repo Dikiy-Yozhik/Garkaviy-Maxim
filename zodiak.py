@@ -4,3 +4,5 @@ for i in range(n):
     print("Абра-кадабра")
 if a == 'апрель':
     print("\nВы овен!")
+if a == 'май':
+    print("\nВы телец!")
