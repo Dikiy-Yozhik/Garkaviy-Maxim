@@ -8,3 +8,5 @@ print(a, "*", b, "=", a*b)
 c = int(input("А введи еще число "))
 for i in range(c):
     print("Goodbye")
+    if i>0:
+        break
