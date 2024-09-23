@@ -10,3 +10,5 @@ for i in range(c):
     print("Goodbye")
     if i>0:
         break
+#изменение один
+#изменение два
